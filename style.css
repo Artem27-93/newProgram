@@ -1,0 +1,12 @@
+#images-block {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1400px;
+    margin: auto;
+    justify-content: center;
+}
+
+#images-block img {
+    margin: 15px;
+    border: 2px solid #000;
+}
